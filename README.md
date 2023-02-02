@@ -7,8 +7,12 @@ When in course of human events, it becomes neccesary for someone to host a super
 
 Key features /n
 
-ability to seed tournament /n
-save brackets on your account /n 
-add any number of teams/ competitors /n 
+ability to seed tournament 
+
+save brackets on your account 
+
+add any number of teams/ competitors 
+
 choose the winner
+
 Secure login over HTTPS
