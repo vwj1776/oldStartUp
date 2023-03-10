@@ -16,3 +16,43 @@ add any number of teams/ competitors
 choose the winner
 
 Secure login over HTTPS
+
+What does div do
+Creates a div element
+To point to another dns record, you should use the following dns type
+CNAME note ip is A c is an alias, pointer to another
+You can use css to import fonts from google
+True- look up the syntax
+
+Burger fries taco shake noodles
+Burger, fries, 10 seconds taco, shake noodles, finally always gets called
+Which of the following is valid json
+{“x”;3}
+Using css how would you turn the byu text blue
+Div.header {color: blue;}
+Which of the following is not valid way to include javascript
+<javascript>1+1</javascript>
+
+Rat fish
+Not valid
+Function f(x) = {} equal sign
+
+pals before marriage yellow
+
+Green
+
+Blue, 
+
+Ul
+
+Adds a mousover event listener to a p element
+
+Blue
+
+Blue
+
+yellow , enters try, a, waits for promise, d, logs b, no error 
+
+
+Make sure you know what all the last question answers are.
+
