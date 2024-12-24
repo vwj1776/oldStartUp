@@ -1,4 +1,4 @@
-# startUp
+# oldStartUp
 cs260Project
 
 When in course of human events, it becomes neccesary for someone to host a super smash bro's tournament, a 1v1 basketball matchup in your team, or simply the need to organize your various march maddness brackets. We need a secure online bracket generator, with the ability to seed the comitition, to add your own names, and for it to save your data so you can have bragging rights till the end of time. 
